@@ -1,6 +1,7 @@
 # Numerous always-ignore extensions
 *.diff
 *.php
+index.php
 *.err
 *.log
 *.orig
@@ -27,6 +28,8 @@ Thumbs.db
 bower_components
 node_modules
 _*
+__admin
+_mb*
 
 # Dev files to ignore
 dist
